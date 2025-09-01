@@ -4,6 +4,11 @@ A dynamic, engaging quiz application built with React featuring multiple categor
 
 ## 🌐 Live Demo
 **[View Live App](https://quiz-app-two-pied-94.vercel.app/)**
+## 📸 Screenshot
+
+![App Screenshot](./src/assets/screenshot.png)
+
+---
 
 ## 🧠 Features
 
